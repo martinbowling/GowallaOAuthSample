@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GowallaOAuthSample", "GowallaOAuthSample\GowallaOAuthSample.csproj", "{090EA1C7-A833-4FAE-BE57-E5B89B221930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newtonsoft.Json", "GowallaOAuthSample\Newtonsoft.Json\Newtonsoft.Json.csproj", "{C9CC774E-06E8-4170-BCE4-5F0661C883EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoTouch.Dialog", "GowallaOAuthSample\MonoTouch.Dialog\MonoTouch.Dialog.csproj", "{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		AdHoc|iPhone = AdHoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{090EA1C7-A833-4FAE-BE57-E5B89B221930}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{090EA1C7-A833-4FAE-BE57-E5B89B221930}.Debug|iPhone.Build.0 = Debug|iPhone
+		{090EA1C7-A833-4FAE-BE57-E5B89B221930}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{090EA1C7-A833-4FAE-BE57-E5B89B221930}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{090EA1C7-A833-4FAE-BE57-E5B89B221930}.Release|iPhone.ActiveCfg = Release|iPhone
+		{090EA1C7-A833-4FAE-BE57-E5B89B221930}.Release|iPhone.Build.0 = Release|iPhone
+		{090EA1C7-A833-4FAE-BE57-E5B89B221930}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{090EA1C7-A833-4FAE-BE57-E5B89B221930}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.AdHoc|iPhone.ActiveCfg = AdHoc|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.AdHoc|iPhone.Build.0 = AdHoc|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Debug|iPhone.Build.0 = Debug|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Release|iPhone.Build.0 = Release|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhone.Build.0 = Release|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GowallaOAuthSample\GowallaOAuthSample.csproj
+	EndGlobalSection
+EndGlobal
